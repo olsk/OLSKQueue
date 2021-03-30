@@ -1,4 +1,7 @@
 {
   "name": "OLSKQueue",
-  "main": "main.js"
+  "main": "main.js",
+  "dependencies": {
+    "queue": "latest"
+  }
 }
